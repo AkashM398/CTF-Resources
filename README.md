@@ -11,6 +11,34 @@
     - [Qubes OS](https://www.qubes-os.org/)
     - [Whonix](https://www.whonix.org/)
     
+
 ### Linux Commands - 
 
  -  [Basic Commands](#)
+
+
+### Bash Scripting - 
+
+ -  [Bash Basics](#)
+
+
+### Python Scripting - 
+
+ -  [Python Basics](#)
+
+
+## CTF Resources - 
+
+### Reverse Engineering - [Click here](#)
+### Pwn (Binary Exploitation) - [Click here](#)
+### Forensics - [Click here](#)
+### Crypto - [Click here](#)
+### Web - [Click here](#)
+### Android - [Click here](#)
+
+
+## Bug-Bounty Resources - 
+
+
+
+
